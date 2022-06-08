@@ -5698,19 +5698,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Omid S. Al-Ghani\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub Projects\\Petition\\Petition\\Petition\\Petition\\Petition.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Petition_MoE\\Petition\\Petition.csproj",
       "projectName": "Petition",
-      "projectPath": "D:\\GitHub Projects\\Petition\\Petition\\Petition\\Petition\\Petition.csproj",
-      "packagesPath": "C:\\Users\\Omid S. Al-Ghani\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub Projects\\Petition\\Petition\\Petition\\Petition\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Petition_MoE\\Petition\\Petition.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Petition_MoE\\Petition\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Omid S. Al-Ghani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5775,7 +5775,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
       }
     }
   }
